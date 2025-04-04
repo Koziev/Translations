@@ -89,7 +89,7 @@ If you use this dataset, please cite as:
 @misc{koziev_translations,
   author       = {Koziev},
   title        = {Parallel Literary Corpora: Fiction and Poetry Translations},
-  year         = {2023},
+  year         = {2025},
   howpublished = {GitHub repository},
   publisher    = {GitHub},
   journal      = {GitHub repository},
