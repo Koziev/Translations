@@ -79,22 +79,26 @@ This dataset is designed to support research and development in the following ar
 ### **Limitations**
 - Not suitable for sentence-level MT tasks without realignment
 - Biased toward English/German translations (see [Language Distribution](#data-statistics))
+
 ## Ethical Considerations  
 - Contains artistic works: Cite original authors where possible  
 - Verify licensing status of source texts before commercial use
 
 ## Citation
+
 If you use this dataset, please cite as:
+
 ```bibtex
-@misc{koziev_translations,
+@dataset{koziev_literary_translations_2024,
   author       = {Koziev},
-  title        = {Parallel Literary Corpora: Fiction and Poetry Translations},
-  year         = {2025},
-  howpublished = {GitHub repository},
-  publisher    = {GitHub},
-  journal      = {GitHub repository},
+  title        = {Parallel Literary Corpora: Russian Fiction Translations},
+  year         = {2024},
+  publisher    = {Zenodo},
+  version      = {1.0},
+  doi          = {10.5281/zenodo.15142403},
   url          = {https://github.com/Koziev/Translations},
-  note         = {Paragraph-aligned parallel texts for literary translation between Russian and multiple languages}
+  note         = {Paragraph-aligned parallel texts for literary translation between Russian and multiple languages},
+  copyright    = {Creative Commons Attribution 4.0 International}
 }
 ```
 
