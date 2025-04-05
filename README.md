@@ -1,5 +1,7 @@
 # Parallel Literary Corpora: Fiction and Poetry Translations
 
+![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15142403.svg)
+
 This repository provides high-quality parallel datasets for translating fiction and poetry between Russian and various foreign languages.
 
 ## Key Features
